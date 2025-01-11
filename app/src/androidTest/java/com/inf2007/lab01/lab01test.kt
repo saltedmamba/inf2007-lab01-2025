@@ -11,7 +11,7 @@ import androidx.compose.ui.test.performTextInput
 import org.junit.Rule
 import org.junit.Test
 
-class lab01test {
+class Lab01test {
     @get:Rule
     val composeTestRule = createComposeRule()
 
